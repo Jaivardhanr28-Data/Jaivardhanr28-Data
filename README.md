@@ -19,15 +19,16 @@
 ![DAX](https://img.shields.io/badge/DAX-5C2D91?style=flat)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ---
 
 ## 🏅 Certifications
 
-| Certification | Issuer | Verify |
-|---------------|--------|--------|
-| Azure Data Fundamentals (DP-900) | Microsoft | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/JaivardhanRanawat-1975/F4CE3C22997F921F?sharingId=126C25F73382C62B) |
-
+| Badge | Certification | Issuer | Verify |
+|:---:|---|---|---|
+| <a href="https://learn.microsoft.com/api/credentials/share/en-us/JaivardhanRanawat-1975/F4CE3C22997F921F?sharingId=126C25F73382C62B"><img src="badges/microsoft-dp900.png" height="70" alt="DP-900 badge"></a> | Azure Data Fundamentals (DP-900) | Microsoft | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/JaivardhanRanawat-1975/F4CE3C22997F921F?sharingId=126C25F73382C62B) |
+| <a href="https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8"><img src="badges/databricks-analytics-fundamentals.png" height="70" alt="Databricks Analytics Fundamentals badge"></a> | Analytics Fundamentals (Academy Accreditation) | Databricks | [View credential](https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8) |
 
 ---
 
@@ -50,6 +51,12 @@
 
 ### 📈 Power BI
 **Skills:** Data modelling · DAX (CALCULATE, time intelligence) · Power Query · What-if parameters · Report design
+
+**[Global Airbnb Performance Dashboard](https://github.com/Jaivardhanr28-Data/Airbnb-Global-Performance-Powerbi)**: 279K listings · 5.4M reviews · 10 cities
+- 📉 Tracked COVID-19 impact: demand fell **92%** in April 2020; Istanbul recovered fastest (**79%**)
+- 💱 Converted prices from **10 currencies to USD** for fair comparison across cities
+- 🧮 DAX: CALCULATE, RANKX Pareto analysis, MEDIANX + RELATED · Star schema with a custom Date table
+- ⚡ Cut model size **204 MB → 20 MB (−90%)**
 
 
 
