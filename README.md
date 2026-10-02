@@ -58,7 +58,7 @@
 - 🧮 DAX: CALCULATE, RANKX Pareto analysis, MEDIANX + RELATED · Star schema with a custom Date table
 - ⚡ Cut model size **204 MB → 20 MB (−90%)**
 
-- **[Uber Ride Analytics Dashboard](https://github.com/Jaivardhanr28-Data/Uber-Ride-Analytics-Powerbi)**: 150K bookings · 7 vehicle types · Delhi NCR
+**[Uber Ride Analytics Dashboard](https://github.com/Jaivardhanr28-Data/Uber-Ride-Analytics-Powerbi)**: 150K bookings · 7 vehicle types · Delhi NCR
 - 🚫 Found **38% of bookings lost**; driver cancellations (**18%**) are the single biggest leak
 - 🔁 **79% of customers book only once**, so retention is the main growth lever
 - 🚗 Dynamic vehicle image + synced button slicer across 5 pages; page-specific KPIs
