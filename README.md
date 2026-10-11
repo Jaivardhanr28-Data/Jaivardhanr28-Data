@@ -28,7 +28,7 @@
 | Badge | Certification | Issuer | Verify |
 |:---:|---|---|---|
 | <a href="https://learn.microsoft.com/api/credentials/share/en-us/JaivardhanRanawat-1975/F4CE3C22997F921F?sharingId=126C25F73382C62B"><img src="badges/microsoft-dp900.png" height="70" alt="DP-900 badge"></a> | Azure Data Fundamentals (DP-900) | Microsoft | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/JaivardhanRanawat-1975/F4CE3C22997F921F?sharingId=126C25F73382C62B) |
-| <a href="https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8"><img src="badges/databricks-analytics-fundamentals.png" height="70" alt="Databricks Analytics Fundamentals badge"></a> | Analytics Fundamentals (Academy Accreditation) | Databricks | [View credential](https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8) |
+| <a href="https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8"><img src="badges/databricks-analytics-fundamentals.png" height="70" alt="Databricks Analytics Fundamentals badge"></a> | Analytics Fundamentals | Databricks | [View credential](https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8) |
 
 ---
 
