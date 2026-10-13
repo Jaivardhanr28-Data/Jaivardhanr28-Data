@@ -87,6 +87,6 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivardhan-ranawat-672884312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivardhan-ranawat)
 [![Email](https://img.shields.io/badge/Email-jaivardhanr28%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaivardhanr28@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2098113%2048447-25D366?style=flat&logo=phone&logoColor=white)](tel:+919811348447)
