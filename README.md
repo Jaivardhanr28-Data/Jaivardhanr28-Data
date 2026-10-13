@@ -20,6 +20,7 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat)
 
 ---
 
@@ -28,6 +29,7 @@
 | Badge | Certification | Issuer | Verify |
 |:---:|---|---|---|
 | <a href="https://learn.microsoft.com/api/credentials/share/en-us/JaivardhanRanawat-1975/F4CE3C22997F921F?sharingId=126C25F73382C62B"><img src="badges/microsoft-dp900.png" height="70" alt="DP-900 badge"></a> | Azure Data Fundamentals (DP-900) | Microsoft | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/JaivardhanRanawat-1975/F4CE3C22997F921F?sharingId=126C25F73382C62B) |
+| <a href="https://www.hackerrank.com/certificates/d2e09c39bde2"><img src="badges/hackerrank-sql-advanced.png" height="70" alt="HackerRank SQL Advanced badge"></a> | SQL (Advanced) | HackerRank | [View credential](https://www.hackerrank.com/certificates/d2e09c39bde2) |
 | <a href="https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8"><img src="badges/databricks-analytics-fundamentals.png" height="70" alt="Databricks Analytics Fundamentals badge"></a> | Analytics Fundamentals | Databricks | [View credential](https://credentials.databricks.com/882d5428-9f25-457b-beca-685133e9b3d8) |
 
 ---
@@ -66,6 +68,16 @@
 
 
 
+### 🧱 Databricks
+**Skills:** Lakehouse architecture · Delta tables · Databricks SQL · Notebooks (PySpark, SQL) · SQL-based ETL
+
+
+
+### 🧵 Microsoft Fabric
+**Skills:** Lakehouse · Dataflow Gen2 · Data pipelines · Warehouse · Direct Lake with Power BI
+
+
+
 ### 🔗 End-to-End Projects
 *Projects combining multiple tools — e.g. SQL → Python → Power BI*
 
@@ -76,4 +88,5 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaivardhan-ranawat-672884312)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Jaivardhanr28-Data)
+[![Email](https://img.shields.io/badge/Email-jaivardhanr28%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaivardhanr28@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2098113%2048447-25D366?style=flat&logo=phone&logoColor=white)](tel:+919811348447)
