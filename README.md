@@ -1,7 +1,7 @@
 # Hi, I'm Jaivardhan Ranawat 👋
 
 🎓 B.Tech IT @ Manipal University Jaipur '26  
-📍 Delhi NCR, India  
+📍 Delhi NCR & Bengaluru, India  
 📊 Aspiring Data Analyst — turning raw data into business decisions  
 💼 Open to Data Analyst / Business Analyst roles
 
